@@ -1,7 +1,7 @@
 [![MasterHead(https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm Abhishekshirsath0</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align="right" alt="coding" width="400" src=https://img.lovepik.com/element/45012/7829.png_860.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekshirsath0&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekshirsath0" /> </p>
 
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekshirsath0&show_icons=true&locale=en" alt="abhishekshirsath0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshirsath0&" alt="abhishekshirsath0" /></p>
-
