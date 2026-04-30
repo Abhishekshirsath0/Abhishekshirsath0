@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:6366F1&height=200&section=header&text=Abhishek%20Shirsath&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20Full-Stack%20Learner&descAlignY=58&descColor=B0C4DE&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:6366F1&height=200&section=header&text=Abhishek%20Shirsath&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=58&descColor=B0C4DE&animation=fadeIn" width="100%" />
 </div>
 
 <!-- BADGES -->
