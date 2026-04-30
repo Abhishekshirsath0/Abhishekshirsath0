@@ -1,82 +1,82 @@
+<!-- BANNER -->
 <div align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Abhishek Shirsath banner" width="100%" />
-  
-  <h1>Hi, I'm Abhishek Shirsath 👋</h1>
-  <h3>Software Engineering Student | Frontend Developer | India</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:6366F1&height=200&section=header&text=Abhishek%20Shirsath&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20Full-Stack%20Learner&descAlignY=58&descColor=B0C4DE&animation=fadeIn" width="100%" />
+</div>
 
-  <p>
-    I build clean, user-focused web experiences with modern frontend technologies.<br/>
-    Currently exploring full-stack development and open to collaborating on impactful projects.
-  </p>
+<!-- BADGES -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Tailwind+Craftsman+%E2%9C%A8;Full-Stack+Explorer+%F0%9F%8C%B1;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+</div>
 
-  <p>
-    <a href="https://linkedin.com/in/abhishek-shirsath" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:shirsathabhi512@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/abhi_shirsath" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-  </p>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekshirsath0&label=Profile+Views&color=378ADD&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/abhishekshirsath0?label=Followers&style=flat-square&color=378ADD" />
 </div>
 
 ---
 
-## About Me
+## `$ whoami`
 
-- 🌱 Currently learning: Full-stack web development
-- 💬 Ask me about: Frontend development, React, and mobile development
-- ⚡ Fun fact: I bring humor to every standup
-- 📫 Reach me at: [shirsathabhi512@gmail.com](mailto:shirsathabhi512@gmail.com)
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
+```json
+{
+  "name": "Abhishek Shirsath",
+  "role": "Software Engineering Student & Frontend Developer",
+  "location": "India 🇮🇳",
+  "learning": "Full-stack web development",
+  "ask_me_about": ["Frontend", "React", "Mobile Dev", "UI/UX"],
+  "contact": "shirsathabhi512@gmail.com",
+  "fun_fact": "I bring humor to every standup 😄"
+}
+```
 
 ---
 
-## GitHub Stats
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshirsath0&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+**Languages**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekshirsath0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshirsath0&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
-## Connect With Me
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://linkedin.com/in/abhishek-shirsath" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/abhi_shirsath" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://fb.com/abhishek-shirsath" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:shirsathabhi512@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshirsath0&theme=tokyonight&hide_border=true&background=0D1117&stroke=378ADD&ring=378ADD&fire=6366F1&currStreakLabel=B0C4DE" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekshirsath0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=378ADD&title_color=378ADD&text_color=B0C4DE" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshirsath0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=378ADD&text_color=B0C4DE" width="48%" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-shirsath)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhi_shirsath)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/abhishek-shirsath)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shirsathabhi512@gmail.com)
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:378ADD&height=100&section=footer" width="100%" />
