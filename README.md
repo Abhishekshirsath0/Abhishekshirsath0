@@ -17,21 +17,7 @@
 
 ---
 
-## `$ whoami`
 
-```json
-{
-  "name": "Abhishek Shirsath",
-  "role": "Software Engineering Student & Frontend Developer",
-  "location": "India 🇮🇳",
-  "learning": "Full-stack web development",
-  "ask_me_about": ["Frontend", "React", "Mobile Dev", "UI/UX"],
-  "contact": "shirsathabhi512@gmail.com",
-  "fun_fact": "I bring humor to every standup 😄"
-}
-```
-
----
 
 ## 🛠 Tech Stack
 
