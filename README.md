@@ -1,7 +1,7 @@
 # Abhishek Shirsath
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:00D4FF,100:6366F1&height=220&section=header&text=Abhishek%20Shirsath&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Automation%20Engineer&descAlignY=60&descColor=00D4FF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:00D4FF,100:6366F1&height=220&section=header&text=Abhishek%20Shirsath&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineer&descAlignY=60&descColor=00D4FF&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
