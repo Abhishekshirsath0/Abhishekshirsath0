@@ -8,7 +8,7 @@
 
 <div align="center">
   
-#### Automation Engineer
+#### Computer Engineer
 
 </div>
 
