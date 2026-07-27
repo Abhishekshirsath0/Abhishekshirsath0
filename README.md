@@ -67,9 +67,6 @@ Frontend, APIs & automation
 
 ---
 
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -90,7 +87,6 @@ Frontend, APIs & automation
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-
 
 ### Automation
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
@@ -117,7 +113,7 @@ Frontend, APIs & automation
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshirsath0&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=abhishekshirsath0&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35" width="100%" />
 </div>
 
 **github.com/abhishekshirsath0**
