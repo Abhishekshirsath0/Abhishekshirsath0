@@ -68,6 +68,11 @@ Frontend, APIs & automation
 ---
 
 ## 🛠️ Tech Stack
+### Design & UI Tools
+
+![Google Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -77,7 +82,7 @@ Frontend, APIs & automation
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-[Google Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white)
+
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
