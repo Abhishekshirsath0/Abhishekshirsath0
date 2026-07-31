@@ -132,18 +132,18 @@ Frontend, APIs & automation
 
 <div align="center">
 
-![Streak](https://img.shields.io/badge/Streak-∞-00D4FF?style=flat-square)
-![Commits](https://img.shields.io/badge/Commits-📈-00D4FF?style=flat-square)
-![Stars](https://img.shields.io/badge/Stars-⭐-FFB700?style=flat-square)
-![Repos](https://img.shields.io/badge/Repos-📦-00D4FF?style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekshirsath0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshirsath0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9" width="48%" />
 
 </div>
 
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhishekshirsath0&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhishekshirsath0/abhishekshirsath0/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
 </div>
+
+> Note: the snake animation above needs a one-time GitHub Actions setup to generate (see `snake.yml`). Until that workflow runs at least once, this image will show broken. Your normal contribution graph is always visible automatically at the bottom of your github.com profile page regardless.
 
 **github.com/abhishekshirsath0**
 
