@@ -5,7 +5,6 @@
 </div>
 
 <br/>
-
 <div align="center">
   
 #### Computer Engineer
