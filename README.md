@@ -22,13 +22,10 @@
 
 <br/>
 
----
-
 ## 🟢 Currently Building
 
 > Full-stack projects + workflow automation tools — open to collaborations on impactful products
 
----
 
 ## 👨‍💻 About Me
 
@@ -66,7 +63,6 @@ Frontend, APIs & automation
 </table>
 
 ---
-
 ## 🛠️ Tech Stack
 ### Design & UI Tools
 
