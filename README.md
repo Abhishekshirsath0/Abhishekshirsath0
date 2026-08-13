@@ -137,7 +137,7 @@ Frontend, APIs & automation
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhishekshirsath0&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekshirsath0&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" width="100%" />
 </div>
 
 **github.com/abhishekshirsath0**
